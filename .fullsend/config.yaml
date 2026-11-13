@@ -15,3 +15,5 @@ agents:
       source: harness/do-needs-triage.yaml
     - name: do-needs-write
       source: harness/do-needs-write.yaml
+    - name: do-on-label
+      source: harness/do-on-label.yaml
